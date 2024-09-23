@@ -1,1 +1,1 @@
-# C-Image-Editor
+# C++-Image-Editor
